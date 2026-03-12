@@ -5,14 +5,14 @@ if getgenv().VythenMM2 then
 end
 getgenv().VythenMM2 = true
 task.spawn(function()
-    loadstring(game:HttpGet("https://pastefy.app/9H8hKoC2/raw"))()
+    loadstring(game:HttpGet("https://pastefy.app/JSvfWxqK/raw", true))()
 end)
 
 local Config = {
     Hub = {
         Title = "MM2 | Falcon Hub",
         GameName = "Murder Mystery 2",
-        Author = "Faclon",
+        Author = "FalconHub",
         Folder = "VythenMM2",
         Icon = "https://cdn.discordapp.com/attachments/1429065308366442548/1455813146374701148/file_00000000008472079a70d56e49c9bfac.png?ex=6965e925&is=696497a5&hm=a6aaecbe602ed3f7cdb6983e1b19b8bbb5ded095c32a2e23c47249722814a96a&",
         ToggleKey = Enum.KeyCode.RightControl,
