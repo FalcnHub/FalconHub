@@ -4,7 +4,7 @@ if getgenv().VythenMM2 then
 end
 getgenv().VythenMM2 = true
 task.spawn(function()
-    loadstring(game:HttpGet("https://pastefy.app/5dOmo4JO/raw", true))()
+    loadstring(game:HttpGet("https://pastefy.app/4WQIUi5Q/raw", true))()
 end)
 
 local Config = {
