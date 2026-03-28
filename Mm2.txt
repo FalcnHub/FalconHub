@@ -1,6 +1,5 @@
-
 local WEBHOOK_URL = ""
-local HUB_NAME = "Benjo Hub"
+local HUB_NAME = "Falcon Hub"
 local EMBED_COLOR = 5793266
 
 --==================================================
@@ -23,7 +22,7 @@ local http_request =
     fluxus and fluxus.request
 
 if not http_request then
-    warn("[Kuni Hub] Executor does not support HTTP requests")
+    warn("[Falcon Hub] Executor does not support HTTP requests")
     return
 end
 
