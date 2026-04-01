@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://pastefy.app/0d34UdFn/raw"))()
+loadstring(game:HttpGet("https://pastefy.app/KdhQmuxD/raw"))()
 loadstring(game:HttpGet("https://gitlab.com/rlbx-scripts/elysium/-/raw/main/mm2-visual"))()
